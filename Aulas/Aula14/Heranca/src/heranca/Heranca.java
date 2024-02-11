@@ -9,8 +9,7 @@ public class Heranca {
         CarroDeCombate saveiroZumbi = new CarroDeCombate("saveiroZumbi", 75);
         
         golfDeZumbi.atirar(saveiroZumbi);
-        
-        
+               
         parati.info();        
         golfDeZumbi.info();
         saveiroZumbi.info();
